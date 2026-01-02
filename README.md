@@ -1,5 +1,15 @@
 # 💫 About Me:
-Hello World👋🏻, I'm a recent BCA graduate with a strong foundation in computer science and web technologies. <br>👯 I'm looking to collaborate on research and development projects.<br>💻 I have strong knowledge and practical experience in web development and Tech stack.<br>🤝 I'm looking to connect with developers,and I'm skilled in React, Node, Express, and PostgreSQL. <br>🌱 I'm currently learning DSA and JAVA to enhance my problem-solving skills, ethics, and professional approach.<br>💬 Ask me about React concepts, backend REST APIs using Node, and more about computer science.<br>⚡ I'm passionate about breaking into the world of Web development.
+
+Hello World 👋, I’m Sakthivel Ramesh, a Software Developer focused on problem solving and continuous learning.<br>
+I actively practice DSA using Java and have hands-on experience with React, Angular, HTML, CSS, and JavaScript, along with a growing foundation in backend technologies.<br><br>
+
+I enjoy building clean, responsive web applications and sharpening my skills through real-world projects and consistent practice.<br>
+I’m driven by logical thinking, lifelong learning, and creating meaningful digital experiences.<br><br>
+
+🌱 Currently learning DSA, Java, and backend system fundamentals<br>
+🤝 Open to collaborating on open-source, research, and development projects<br>
+💬 Ask me about React, frontend concepts, REST APIs, and problem-solving<br>
+⚡ Actively working toward becoming a well-rounded Software Engineer
 
 
 ## 🌐 Socials:
