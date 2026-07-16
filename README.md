@@ -1,15 +1,6 @@
 # 💫 About Me:
 
-Hello World 👋, I’m Sakthivel Ramesh, a Software Developer focused on problem solving and continuous learning.<br>
-I actively practice DSA using Java and have hands-on experience with React, Angular, HTML, CSS, and JavaScript, along with a growing foundation in backend technologies.<br><br>
-
-I enjoy building clean, responsive web applications and sharpening my skills through real-world projects and consistent practice.<br>
-I’m driven by logical thinking, lifelong learning, and creating meaningful digital experiences.<br><br>
-
-🌱 Currently learning DSA, Java, and backend system fundamentals<br>
-🤝 Open to collaborating on open-source, research, and development projects<br>
-💬 Ask me about React, frontend concepts, REST APIs, and problem-solving<br>
-⚡ Actively working toward becoming a well-rounded Software Engineer
+Just a guy living his reason 🎯 | Developer · Content Creator
 
 
 ## 🌐 Socials:
